@@ -35,11 +35,11 @@
             // 
             labelOutput.AutoSize = true;
             labelOutput.Location = new Point(12, 23);
+            labelOutput.MaximumSize = new Size(650, 0);
             labelOutput.Name = "labelOutput";
             labelOutput.Size = new Size(45, 15);
             labelOutput.TabIndex = 0;
             labelOutput.Text = "Output";
-            this.labelOutput.MaximumSize = new System.Drawing.Size(650, 0);
             // 
             // Form1
             // 
